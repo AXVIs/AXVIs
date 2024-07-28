@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **axvintcs@gmail.com**
 
-<h3 align="left">Connect with me:  [Instagram](instagram.com/axvint/)</h3>
+<h3 align="left">Connect with me:  <a href=instagram.com/axvint/>[Instagram]<a/></h3>
 <p align="left">
 </p>
 
