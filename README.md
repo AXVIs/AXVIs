@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **axvintcs@gmail.com**
 
-<h3 align="left">Connect with me:  </h3>
+<h3 align="left">Connect with me:  [Instagram](instagram.com/axvint/)</h3>
 <p align="left">
 </p>
 
@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axvis&show_icons=true&theme=merko&locale=en" alt="axvis" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axvis&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="axvis" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=axvis&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="axvis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axvis&theme=highcontrast" alt="axvis" /></p>
