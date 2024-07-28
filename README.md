@@ -24,4 +24,4 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=axvis&theme=highcontrast" alt="axvis" style=""/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axvis&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="axvis" style="padding-top: 20px;"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axvis&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="axvis" style="padding-top: 50px;"/></p>
