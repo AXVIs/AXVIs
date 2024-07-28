@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, We're AXV !!!</h1>
-<h3 align="center">A Group for International!</h3>
+<h3 align="center">A Group for International !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axvis&label=Visitors&color=ff0033&style=plastic" alt="axvis" /> </p>
 
