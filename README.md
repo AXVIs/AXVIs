@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I'm+ZeroID!;&center=true&size=30">
   </a>
 </h1>
-<hr>
+
 <h3 align="center">A Group for International!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axvis" alt="axvis" /></a> </p>
