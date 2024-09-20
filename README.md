@@ -17,13 +17,34 @@
 - 📫 How to reach me **axvintcs@gmail.com**
 <br>
 <h3 align="left">Connect with us:</h3>
+<table>
+      <tr>
+        <td>
+          <a href="https://github.com/AXVIs">
+            <img src="https://skillicons.dev/icons?i=github" />
+          </a>
+        </td>
+        <td>
+          <a href="https://www.instagram.com/axvint">
+            <img src="https://skillicons.dev/icons?i=instagram" />
+          </a>
+        </td>
+        <td>
+          <a href="https://twitter.com/axvint">
+            <img src="https://skillicons.dev/icons?i=twitter"  />
+          </a>
+        </td>
+        <td>
+          <a href="https://www.youtube.com/@AXVIs">
+            <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="50px" height="50px" />
+          </a>
+        </td>
+      </tr>
+    </table>
 <p align="left">
 </p>
-
 <br>
-
-<img align='center' src='https://github.com/MRXAZK/MRXAZK/blob/output/github-contribution-grid-snake-dark.svg'>
-
+<img align='center' src='https://github.com/AXVIs/AXVIs/blob/output/github-contribution-grid-snake-dark.svg'>
 <br>
 <br>
 <table>
